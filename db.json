@@ -1,6 +1,8 @@
 {
   "providerName": "Roku Recommends",
-  "shortFormVideos": ["abc"],
+  "shortFormVideos": [
+    "abc"
+  ],
   "profile": {
     "name": "typicode"
   }
