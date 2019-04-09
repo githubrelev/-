@@ -3,34 +3,6 @@
     "shortFormVideos": [
         {
             "content": {
-                "duration": 595, 
-                "captions": [], 
-                "adBreaks": [], 
-                "videos": [
-                    {
-                        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", 
-                        "videoType": "MP4", 
-                        "quality": "HD"
-                    }
-                ], 
-                "dateAdded": "2019-04-01T14:14:54.431Z"
-            }, 
-            "releaseDate": "2015-06-11", 
-            "genres": [
-                "gaming", 
-                "technology"
-            ], 
-            "tags": [
-                "blender", 
-                "foundation"
-            ], 
-            "title": "Big Buck Bunny", 
-            "shortDescription": "\u30aa\u30fc\u30d7\u30f3\u30bd\u30fc\u30b9\u306e3D\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2Blender\u3067\\u4f5c\u3089\u308c\u305fCG\u30a2\u30cb\u30e1", 
-            "id": "decbe34b64ea4ca281dc09997d0f23fd", 
-            "thumbnail": "https://blog.roku.com/developer/files/2016/10/twitch-poster-artwork.png"
-        }, 
-        {
-            "content": {
                 "duration": 654, 
                 "captions": [], 
                 "adBreaks": [], 
