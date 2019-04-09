@@ -3,34 +3,6 @@
     "shortFormVideos": [
         {
             "content": {
-                "duration": 654, 
-                "captions": [], 
-                "adBreaks": [], 
-                "videos": [
-                    {
-                        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4", 
-                        "videoType": "MP4", 
-                        "quality": "HD"
-                    }
-                ], 
-                "dateAdded": "2019-03-21T14:14:54.431Z"
-            }, 
-            "releaseDate": "2015-05-21", 
-            "genres": [
-                "food"
-            ], 
-            "tags": [
-                "food", 
-                "cooking", 
-                "eating"
-            ], 
-            "title": "Elephant Dream", 
-            "shortDescription": "The first Blender Open Movie from 2006", 
-            "id": "6c9d0951d6d74229afe4adf972b278dd", 
-            "thumbnail": "https://blog.roku.com/developer/files/2016/10/paula-deen-poster-artwork.png"
-        }, 
-        {
-            "content": {
                 "duration": 63, 
                 "captions": [], 
                 "adBreaks": [], 
