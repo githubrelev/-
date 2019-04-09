@@ -1,57 +1,11 @@
 {
-    "providerName": "Roku Recommends", 
-    "shortFormVideos": [
-        {
-            "content": {
-                "duration": 734, 
-                "captions": [], 
-                "adBreaks": [], 
-                "videos": [
-                    {
-                        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4", 
-                        "videoType": "MP4", 
-                        "quality": "HD"
-                    }
-                ], 
-                "dateAdded": "2019-01-02T14:14:54.431Z"
-            }, 
-            "releaseDate": "2015-07-02", 
-            "genres": [
-                "history", 
-                "science", 
-                "nature", 
-                "adventure"
-            ], 
-            "tags": [
-                "History", 
-                "science", 
-                "nature", 
-                "adventure", 
-                "Space"
-            ], 
-            "title": "Tears of Steel", 
-            "shortDescription": "Tears of Steel was realized with crowd-funding by users of the open source 3D creation tool Blender. Target was to improve and test a complete open and free pipeline for visual effects in film - and to make a compelling sci-fi film in Amsterdam, the Netherlands.", 
-            "id": "42137542fa884b97a2a72cb356ae21b9", 
-            "thumbnail": "https://blog.roku.com/developer/files/2016/10/xive-poster-artwork.png"
-        }
-    ], 
-    "lastUpdated": "2019-04-06T18:12:32.125Z", 
-    "language": "jpn", 
-    "categories": [
-        {
-            "playlistName": "short-form", 
-            "name": "Roku Recommends", 
-            "order": "manual"
-        }, 
-        {
-            "playlistName": "sports", 
-            "name": "Sports and Gaming", 
-            "order": "manual"
-        }, 
-        {
-            "playlistName": "misc", 
-            "name": "Miscellaneous", 
-            "order": "manual"
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
